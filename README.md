@@ -101,20 +101,13 @@ This is the tech I use to bring ideas to life. I'm always learning and expanding
 ### 📈 GitHub Stats
 
 <div align="center">
-
   <!-- GitHub Stats Card -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adiTyaIcHe07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Aditya's GitHub Stats"/>
-
   <!-- Top Languages -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiTyaIcHe07&layout=compact&langs_count=8&theme=tokyonight" alt="Aditya's Top Languages"/>
-
 </div>
-
 <br />
-
 <div align="center">
-
   <!-- GitHub Streak Stats -->
   <img height="180em" src="https://streak-stats.demolab.com/?user=adiTyaIcHe07&theme=tokyonight" alt="GitHub Streak"/>
-
 </div>
