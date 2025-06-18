@@ -106,8 +106,3 @@ This is the tech I use to bring ideas to life. I'm always learning and expanding
   <!-- Top Languages -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiTyaIcHe07&layout=compact&langs_count=8&theme=tokyonight" alt="Aditya's Top Languages"/>
 </div>
-<br />
-<div align="center">
-  <!-- GitHub Streak Stats (WORKING) -->
-  <img height="180em" src="https://github-readme-streak-stats.vercel.app/?user=adiTyaIcHe07&theme=tokyonight" alt="GitHub Streak"/>
-</div>
