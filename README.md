@@ -100,32 +100,23 @@ This is the tech I use to bring ideas to life. I'm always learning and expanding
 
 ### 📈 GitHub Stats
 
-## 📊 My GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=adiTyaIcHe07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adiTyaIcHe07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Aditya's GitHub Stats"/>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiTyaIcHe07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiTyaIcHe07&layout=compact&langs_count=8&theme=tokyonight" alt="Aditya's Top Languages"/>
 
 </div>
 
-<br/>
+<br />
 
 <div align="center">
 
-  <!-- GitHub Streak (fallback mirror link) -->
-  <img src="https://github-readme-streak-stats.demolab.com/?user=adiTyaIcHe07&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <!-- GitHub Contribution Snake (host your own for full reliability) -->
-  <img src="https://raw.githubusercontent.com/adiTyaIcHe07/adiTyaIcHe07/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <!-- GitHub Streak Stats -->
+  <img height="180em" src="https://streak-stats.demolab.com/?user=adiTyaIcHe07&theme=tokyonight" alt="GitHub Streak"/>
 
 </div>
