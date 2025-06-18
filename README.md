@@ -10,7 +10,7 @@ Thanks for visiting!
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   </h1>
   <p>
-    A passionate Full-Stack Developer specializing in building robust and user-friendly web applications with the <strong>Spring Boot</strong> and <strong>React.js</strong> ecosystem. I love turning complex problems into elegant, high-performance software solutions.
+    I’m a Full-Stack Developer who thrives in the Spring Boot + React ecosystem — crafting web applications that are not just robust and scalable, but thoughtfully engineered. I turn complex challenges into clean, high-performance solutions that speak both code and clarity.
   </p>
 
   <!-- Social Links -->
