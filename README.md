@@ -76,7 +76,7 @@ This is the tech I use to bring ideas to life. I'm always learning and expanding
 
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" alt="Hibernate"/> <img src="https://img.shields.io/badge/REST_APIs-0277BD?style=flat&logo=api&logoColor=white" alt="REST APIs"/>
 
-**[📂 View Code](https://github.com/adiTyaIcHe07/[YOUR_LEGAL_AID_REPO_NAME])**
+**[📂 View Code](https://github.com/adiTyaIcHe07/LegalAidNow)**
 
 ---
 
@@ -85,7 +85,7 @@ This is the tech I use to bring ideas to life. I'm always learning and expanding
 
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/Planned:_Spring_Security-25A162?style=flat" alt="Spring Security"/>
 
-**[📂 View Code](https://github.com/adiTyaIcHe07/[YOUR_HANDYHUB_REPO_NAME])**
+**[📂 View Code](https://github.com/adiTyaIcHe07/HandyHub)**
 
 ---
 
