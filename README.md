@@ -100,8 +100,6 @@ This is the tech I use to bring ideas to life. I'm always learning and expanding
 
 ### 📈 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
 
   <!-- GitHub Stats Card -->
