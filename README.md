@@ -108,6 +108,6 @@ This is the tech I use to bring ideas to life. I'm always learning and expanding
 </div>
 <br />
 <div align="center">
-  <!-- GitHub Streak Stats -->
-  <img height="180em" src="https://streak-stats.demolab.com/?user=adiTyaIcHe07&theme=tokyonight" alt="GitHub Streak"/>
+  <!-- GitHub Streak Stats (WORKING) -->
+  <img height="180em" src="https://github-readme-streak-stats.vercel.app/?user=adiTyaIcHe07&theme=tokyonight" alt="GitHub Streak"/>
 </div>
