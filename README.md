@@ -100,7 +100,33 @@ This is the tech I use to bring ideas to life. I'm always learning and expanding
 
 ### 📈 GitHub Stats
 
+## 📊 My GitHub Stats
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adiTyaIcHe07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Aditya's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiTyaIcHe07&layout=compact&langs_count=8&theme=tokyonight" alt="Aditya's Top Languages"/>
+
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=adiTyaIcHe07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiTyaIcHe07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+
 </div>
+
+<br />
+
+<div align="center">
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adiTyaIcHe07&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+
+</div>
+
+<br />
+
+<div align="center">
+
+  <!-- GitHub Contribution Snake (requires custom deploy sometimes) -->
+  <img src="https://github-contribution-grid-snake.vercel.app/api?user=adiTyaIcHe07&theme=dark" alt="Contribution Snake"/>
+
+</div>
+
