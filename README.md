@@ -27,7 +27,7 @@ Thanks for visiting!
     <a href="https://www.hackerrank.com/adiTyaIcHe" target="_blank">
       <img src="https://img.shields.io/badge/HackerRank-D3D3D3?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
     </a>
-    <a href="https://auth.geeksforgeeks.org/user/adityaiche07" target="_blank">
+    <a href="https://auth.geeksforgeeks.org/user/adityaiche" target="_blank">
       <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
     </a>
   </div>
