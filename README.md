@@ -24,11 +24,11 @@ Thanks for visiting!
     <a href="https://www.leetcode.com/adityaiche07" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-1e1e1e?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
     </a>
-    <a href="https://auth.geeksforgeeks.org/user/adityaiche07" target="_blank">
-      <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-    </a>
     <a href="https://www.hackerrank.com/adityaiche07" target="_blank">
       <img src="https://img.shields.io/badge/HackerRank-D3D3D3?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+    </a>
+    <a href="https://auth.geeksforgeeks.org/user/adityaiche07" target="_blank">
+      <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
     </a>
   </div>
 </div>
