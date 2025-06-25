@@ -15,11 +15,11 @@ Thanks for visiting!
 
   <!-- Social Links -->
   <div id="socials">
-    <a href="https://www.linkedin.com/in/aditya-iche-704081263/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
     <a href="mailto:adityaiche09@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://www.linkedin.com/in/aditya-iche-704081263/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://www.leetcode.com/adityaiche07" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-1e1e1e?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
