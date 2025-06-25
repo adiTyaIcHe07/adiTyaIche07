@@ -21,10 +21,10 @@ Thanks for visiting!
     <a href="https://www.linkedin.com/in/aditya-iche-704081263/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://www.leetcode.com/adityaiche07" target="_blank">
+    <a href="https://www.leetcode.com/adiTyaIche" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-1e1e1e?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
     </a>
-    <a href="https://www.hackerrank.com/adityaiche07" target="_blank">
+    <a href="https://www.hackerrank.com/adiTyaIcHe" target="_blank">
       <img src="https://img.shields.io/badge/HackerRank-D3D3D3?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
     </a>
     <a href="https://auth.geeksforgeeks.org/user/adityaiche07" target="_blank">
